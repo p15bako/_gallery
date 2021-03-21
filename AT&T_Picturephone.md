@@ -6,7 +6,7 @@ caption: 'Η AT&T ανέπτυξε ένα εκλεπτυσμένο Picturephone 
 license_url: 'https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia'
 license_text: The Microsoft Corporation., Public domain, via Wikimedia Commons
 categories: LabguysWorld.com, CC BY 3.0, via Wikimedia Commons
-  - Αρχέτυπα
+  - Εργαλεία
 tags:
   - AT&T
   - Picturephone
